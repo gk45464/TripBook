@@ -21,7 +21,7 @@
 
 
 
-It’s a group project where we've used Next.JS to make the TripBook.com with our creativity along with frontend and backend integration
+It’s a full stack project where I  used Next.JS to make the TripBook.com with our creativity along with frontend and backend integration
 its Fully Responsive booking web application that allows you to book hotels, flights and car rental. In this website you can filter, sort hotels by price, rating and reviews.
 
 
